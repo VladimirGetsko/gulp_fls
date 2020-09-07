@@ -21,7 +21,7 @@ cd name_project
 ```
 npm i
 ```
-* To start development run:
+* To start development:
 ```
 gulp
 ```
