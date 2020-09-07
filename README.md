@@ -10,3 +10,10 @@ git clone https://github.com/VladimirGetsko/gulp_fls.git
 ```
 git clone git@github.com:VladimirGetsko/gulp_fls.git
 ```
+
+**To create new project:**
+
+* Move to project directory:
+```
+cd name_project
+```
