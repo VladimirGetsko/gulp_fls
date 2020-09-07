@@ -21,3 +21,7 @@ cd name_project
 ```
 npm i
 ```
+* To start development run:
+```
+gulp
+```
