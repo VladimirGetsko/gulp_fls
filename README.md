@@ -15,13 +15,13 @@ git clone git@github.com:VladimirGetsko/gulp_fls.git
 
 * Move to project directory:
 ```
-cd name_project
+git cd name_project
 ```
 * Install dependencies:
 ```
-npm i
+git npm i
 ```
 * To start development:
 ```
-gulp
+git gulp
 ```
