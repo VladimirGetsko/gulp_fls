@@ -17,3 +17,7 @@ git clone git@github.com:VladimirGetsko/gulp_fls.git
 ```
 cd name_project
 ```
+* Install dependencies:
+```
+npm i
+```
